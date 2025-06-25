@@ -72,7 +72,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### [Sales View](#)
+### [Sales View]
 - **Customer & Product Performance** – Identifies high/low-performing customers and products.
 - **Gross Margin Analysis** – Evaluates profitability per product/customer.
 - **Unit Economics** – Tracks **COGS and deductions** for pricing optimization.
