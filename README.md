@@ -55,12 +55,12 @@ Atliq Hardware (fictional company) is a prominent computer hardware manufacturer
 ## Dashboard Overview
 This interactive Power BI dashboard includes **multiple views**, each designed to provide actionable insights.
 
-### [Home Page](#)
+### Home Page
 - **Navigation Panel**: One-click access to different dashboard views.
 
 ---
 
-### [Finance View](#)
+### Finance View
 - **Profit & Loss Matrix** – Summarizes financial performance.
 - **Net Sales Trend** – Tracks revenue growth.
 - **Top/Bottom Customers & Products** – Identifies key revenue drivers.
@@ -72,7 +72,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### [Sales View](#)
+### Sales View
 - **Customer & Product Performance** – Identifies high/low-performing customers and products.
 - **Gross Margin Analysis** – Evaluates profitability per product/customer.
 - **Unit Economics** – Tracks **COGS and deductions** for pricing optimization.
@@ -82,7 +82,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### [Marketing View](#)
+### Marketing View
 - **Market, Region & Customer Analysis** – Identifies profitable regions and customers.
 - **Product Performance Metrics** – Highlights best-selling and underperforming products.
 - **Operational Expense Breakdown** – Tracks advertising and marketing expenditures.
@@ -92,7 +92,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### [Supply Chain View](#)
+### Supply Chain View
 - **Forecast Accuracy & Net Error Trend** – Compares predicted vs. actual demand.
 - **Stock Risks (OOS & Excess Inventory)** – Flags inventory issues.
 - **Customer & Product KPIs** – Assesses supply chain efficiency.
@@ -102,7 +102,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ---
 
-### [Executive View](#)
+### Executive View
 - **High-Level KPI Summary** – Quick insights into **net sales, gross margin, and net profit**.
 - **Comparative Analysis** – Benchmarks performance against targets.
 - **Actionable Recommendations** – Suggests key strategies based on data trends.
