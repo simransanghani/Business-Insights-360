@@ -5,7 +5,7 @@ Atliq Hardware (fictional company) is a prominent computer hardware manufacturer
 
 ## Tech Stack Used 
 - SQL
-- PowerBI Desktop
+- Microsoft Power BI
 - Excel
 - DAX language
 - DAX Studio (For Optimizing the Report)
